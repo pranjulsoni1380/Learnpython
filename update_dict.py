@@ -7,4 +7,4 @@ user_info = {
 
 more_info = {'state' : 'Haryana', 'hobbies' : ['conding','reading','guitar']}
 user_info.update(more_info)
-print(user_info)
+print(user_info)    
